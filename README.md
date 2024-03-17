@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Stats](https://github-stats-alpha.vercel.app/api?username=nameniok&cc=000&tc=fff&ic=fff&bc=000 "Stats")](https://github.com/nameniok "Stats")
 
 <!--
 **nameniok/nameniok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
